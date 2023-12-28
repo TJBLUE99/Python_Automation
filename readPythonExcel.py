@@ -34,18 +34,6 @@ else:
 # filter_data.to_excel('final_output.xlsx', index=False);
 # print("File successfull created")
 
-
-
-
-
-
-
-
-
-
-
-
-
 ###############################################################################################################################################
 # currentdate = dt.datetime.now().strftime("%d-%m-%Y")
 # wb = openpyxl.load_workbook('Book2.xlsx')
