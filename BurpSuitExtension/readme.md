@@ -1,4 +1,4 @@
-What does this code do:
+# What does this code do:
 
 1. Python code generates random payload for Burp Intruder
 2. Generates Script payload and sends to Intruder
